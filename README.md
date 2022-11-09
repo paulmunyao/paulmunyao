@@ -8,4 +8,4 @@
 - 💞️ I’m looking to collaborate on impactful projects that improves the lives of people
 - 📫 How to reach me 
 - 📫 How to reach me: Check social links below.
-- ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
+- ⚡ Fun fact: I’m an Idealist with an ENFJ personality type. This means that my leadership style is forward-thinking and relationship-oriented
