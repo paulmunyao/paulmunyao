@@ -7,3 +7,5 @@
 - 🌱 I’m currently learning Scala
 - 💞️ I’m looking to collaborate on impactful projects that improves the lives of people
 - 📫 How to reach me 
+- 📫 How to reach me: Check social links below.
+- ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
