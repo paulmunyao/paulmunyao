@@ -1,3 +1,4 @@
+![coding](https://user-images.githubusercontent.com/71633148/200880843-ad960161-2456-4941-84f9-a1ed8208a2bf.gif)
 -<h1 align="center"> Kon'nichiwa(こんにちは), <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
@@ -10,7 +11,6 @@
 - 📫 How to reach me 
 - 📫 How to reach me: Check social links below.
 - ⚡ Fun fact: I’m an Idealist with an ENFJ personality type. This means that my leadership style is forward-thinking and relationship-oriented
-<!-- <img align="right" alt="coding" width="400" src="https://tenor.com/view/coding-gif-24297652"> -->
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/photographybymunyao/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-munyao-869a8a165/)
