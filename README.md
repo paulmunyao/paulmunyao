@@ -22,3 +22,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulmunyao&langs_count=10)](https://github.com/paulmunyao/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=paulmunyao)](https://git.io/streak-stats)
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=paulmunyao&bg_color=1f2947&color=9e4c98&line=9e4c98&point=6c2d2d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
