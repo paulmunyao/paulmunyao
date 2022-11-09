@@ -2,7 +2,8 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />I’m Paul Munyao </h1> 
-         
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpaulmunyao%2Fpaulmunyao&label=VISITORS&countColor=%23263759)
 # About Me :
 - 👀 I’m interested in learning Japanese
 - 🌱 I’m currently learning Scala
