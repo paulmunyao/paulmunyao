@@ -19,6 +19,4 @@
 
 ![Paul Munyao GitHub stats](https://github-readme-stats.vercel.app/api?username=paulmunyao&show_icons=true&theme=tokyonight)
 ![coding](https://user-images.githubusercontent.com/71633148/200880843-ad960161-2456-4941-84f9-a1ed8208a2bf.gif)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulmunyao&langs_count=10)](https://github.com/paulmunyao/github-readme-stats)
