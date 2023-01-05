@@ -6,7 +6,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpaulmunyao%2Fpaulmunyao&label=VISITORS&countColor=%23263759)
 # About Me :
 - 👀 I’m interested in learning Japanese
-- 🌱 I’m currently learning Scala
+- 🌱 I’m currently learning Data Structures and Algorithms
 - 💞️ I’m looking to collaborate on impactful projects that improves the lives of people
 - 📫 How to reach me: Check social links below.
 - ⚡ Fun fact: I’m an Idealist with an ENFJ personality type. This means that my leadership style is forward-thinking and relationship-oriented
