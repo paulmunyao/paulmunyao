@@ -1,7 +1,7 @@
 <h1 align="center"> Nǐ hǎo (你好), <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" />I’m Paul Munyao </h1> 
+         width="45" /> I’m Paul Munyao </h1> 
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpaulmunyao%2Fpaulmunyao&label=VISITORS&countColor=%23263759)
 # About Me :
